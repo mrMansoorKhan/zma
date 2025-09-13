@@ -1,1 +1,2 @@
 # zma
+Kha jo bya 
